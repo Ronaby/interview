@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Downloads/图灵四期/图灵课堂Java-架构师VIP精品课程（第五期）/四：分布式框架专题/39-Kafka快速实战与基本原理详解-诸葛/kafka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/图灵四期/图灵课堂Java-架构师VIP精品课程（第五期）/四：分布式框架专题/29-Zookeeper客户端使用与经典应用场景-fox/vip_zookeeper/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/图灵四期/图灵课堂Java-架构师VIP精品课程（第五期）/四：分布式框架专题/29-Zookeeper客户端使用与经典应用场景-fox/vip_zookeeper/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-assemblysrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-clientsrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-compatibility-tests/zookeeper-compatibility-tests-curatorsrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-compatibility-testssrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-docssrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-jutesrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-metrics-providers/zookeeper-prometheus-metricssrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-metrics-providerssrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-recipes/zookeeper-recipes-electionsrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-recipes/zookeeper-recipes-locksrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-recipes/zookeeper-recipes-queuesrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-recipessrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeeper/zookeeper-serversrc/main/java/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/zookeepersrc/main/java/resources" charset="UTF-8" />
   </component>
 </project>

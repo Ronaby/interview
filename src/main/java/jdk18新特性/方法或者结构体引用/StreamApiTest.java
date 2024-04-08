@@ -3,8 +3,6 @@ package jdk18新特性.方法或者结构体引用;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Locale;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 /**
